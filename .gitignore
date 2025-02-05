@@ -1,0 +1,6 @@
+# bazel
+/bazel-*
+# Ignore outputs generated during Bazel bootstrapping.
+/output/
+# User-specific .bazelrc
+user.bazelrc
